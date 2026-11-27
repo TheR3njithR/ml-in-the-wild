@@ -6,6 +6,7 @@ Code and synthetic datasets for **ML in the Wild: 100 Production-Ready Case Stud
 
 - [Episode 1 — Your KPI Dashboard Is Lying: Catch It With Isolation Forest](ep01-kpi-dashboard-lying/)
 - [Episode 2 — Predict a Power BI Refresh Failure Before It Happens](ep02-power-bi-refresh-failure/)
+- [Episode 3 — Detect a Broken Data Pipeline Without Reading the Logs](ep03-broken-data-pipeline/)
 
 ## How to run an episode
 
